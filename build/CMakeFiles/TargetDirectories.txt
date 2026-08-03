@@ -1,0 +1,3 @@
+/home/akira/Documentos/Eneas/Escolar/6toSemestre/KashiSan/06_02_FinalProject_SDK/BenjasScript/build/CMakeFiles/rebuild_cache.dir
+/home/akira/Documentos/Eneas/Escolar/6toSemestre/KashiSan/06_02_FinalProject_SDK/BenjasScript/build/CMakeFiles/edit_cache.dir
+/home/akira/Documentos/Eneas/Escolar/6toSemestre/KashiSan/06_02_FinalProject_SDK/BenjasScript/build/CMakeFiles/BenjasScript.dir

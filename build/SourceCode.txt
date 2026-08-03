@@ -1,0 +1,10 @@
+main
+{
+    Stand;
+    repetir = 3;
+    while((repetir > 0))
+    {
+        Walk GetDist();
+        repetir = repetir - 1;
+    }
+}
